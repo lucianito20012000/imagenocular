@@ -7,61 +7,195 @@
         <language>es</language>
         <lastBuildDate>Mon, 25 Mar 2025 12:00:00 GMT</lastBuildDate>
         
-        <item>
-            <title>Los ojos y el arcoíris</title>
-            <link>https://tusitio.com/dato1</link>
-            <description>Sabías que el ojo humano puede distinguir hasta 10 millones de colores diferentes. ¡Pero seguimos confundiendo el azul marino con el negro!</description>
-            <pubDate>Mon, 25 Mar 2025 12:00:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>Parpadeo exprés</title>
-            <link>https://tusitio.com/dato2</link>
-            <description>Sabías que los ojos parpadean aproximadamente 15-20 veces por minuto, lo que ayuda a mantenerlos hidratados. ¡Es como un mini descanso para la vista!</description>
-            <pubDate>Mon, 25 Mar 2025 12:05:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>La córnea independiente</title>
-            <link>https://tusitio.com/dato3</link>
-            <description>Sabías que la córnea es el único tejido del cuerpo humano que no tiene vasos sanguíneos. Se nutre completamente del oxígeno del aire. ¡Ecológica y autosuficiente!</description>
-            <pubDate>Mon, 25 Mar 2025 12:10:00 GMT</pubDate>
-        </item>
+       <item>
+  <title>Los ojos y el arcoíris</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Sabías que el ojo humano puede distinguir hasta 10 millones de colores diferentes. ¡Pero seguimos confundiendo el azul marino con el negro!</description>
+  <pubDate>Mon, 25 Mar 2025 12:00:00 GMT</pubDate>
+</item>
 
-        <item>
-            <title>Supervisión extrema</title>
-            <link>https://tusitio.com/dato4</link>
-            <description>Sabías que el ojo humano es capaz de ver la luz de una vela a más de 30 km de distancia en condiciones óptimas. ¡Ojos de águila activados!</description>
-            <pubDate>Mon, 25 Mar 2025 12:15:00 GMT</pubDate>
-        </item>
+<item>
+  <title>El poder de las pestañas</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Las pestañas protegen los ojos de la suciedad, el sudor y los rayos del sol, actuando como una barrera natural.</description>
+  <pubDate>Mon, 25 Mar 2025 12:05:00 GMT</pubDate>
+</item>
 
-        <item>
-            <title>Fotoreceptores en acción</title>
-            <link>https://tusitio.com/dato5</link>
-            <description>Sabías que cada ojo tiene aproximadamente 120 millones de bastones y 6 millones de conos para detectar la luz y el color. ¡Un ejército microscópico trabajando para ti!</description>
-            <pubDate>Mon, 25 Mar 2025 12:20:00 GMT</pubDate>
-        </item>
+<item>
+  <title>El ojo humano y el parpadeo</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Un ojo humano parpadea alrededor de 15 a 20 veces por minuto, lo que ayuda a mantener la superficie del ojo húmeda.</description>
+  <pubDate>Mon, 25 Mar 2025 12:10:00 GMT</pubDate>
+</item>
 
-        <item>
-            <title>Pestañeo romántico</title>
-            <link>https://tusitio.com/dato6</link>
-            <description>Sabías que la pupila se dilata hasta un 45% cuando miramos a alguien que nos atrae. ¡El amor se nota en la mirada!</description>
-            <pubDate>Mon, 25 Mar 2025 12:25:00 GMT</pubDate>
-        </item>
+<item>
+  <title>¿Sabías que los ojos pueden regenerarse?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>La córnea, la capa externa del ojo, tiene una capacidad asombrosa para regenerarse rápidamente si se daña.</description>
+  <pubDate>Mon, 25 Mar 2025 12:15:00 GMT</pubDate>
+</item>
 
-        <item>
-            <title>Llanto tardío</title>
-            <link>https://tusitio.com/dato7</link>
-            <description>Sabías que los bebés no producen lágrimas visibles hasta alrededor de las 6 semanas de edad. ¡Lloran en seco!</description>
-            <pubDate>Mon, 25 Mar 2025 12:30:00 GMT</pubDate>
-        </item>
+<item>
+  <title>Visión nocturna</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo humano tiene células especializadas llamadas bastones, que permiten ver en condiciones de poca luz.</description>
+  <pubDate>Mon, 25 Mar 2025 12:20:00 GMT</pubDate>
+</item>
 
-        <item>
-            <title>Ojos de diferentes colores</title>
-            <link>https://tusitio.com/dato8</link>
-            <description>Sabías que algunas personas tienen un ojo de cada color debido a una condición llamada heterocromía. ¡Una mirada única e hipnotizante!</description>
-            <pubDate>Mon, 25 Mar 2025 12:35:00 GMT</pubDate>
-        </item>
+<item>
+  <title>El ojo y los colores</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Los conos en la retina nos permiten ver colores. Hay tres tipos de conos, sensibles a los colores rojo, verde y azul.</description>
+  <pubDate>Mon, 25 Mar 2025 12:25:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>La ceguera del color</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>La ceguera al color es una condición en la que las personas no pueden distinguir ciertos colores, generalmente rojo y verde.</description>
+  <pubDate>Mon, 25 Mar 2025 12:30:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Cuánto pesan los ojos?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El peso promedio de un ojo humano es de aproximadamente 28 gramos.</description>
+  <pubDate>Mon, 25 Mar 2025 12:35:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Sabías que los ojos nunca dejan de moverse?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Incluso cuando estamos dormidos, nuestros ojos se mueven durante el sueño REM (movimiento ocular rápido).</description>
+  <pubDate>Mon, 25 Mar 2025 12:40:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>El ojo y el agua</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo humano está compuesto en un 80% de agua, lo que le permite mantenerse hidratado y funcional.</description>
+  <pubDate>Mon, 25 Mar 2025 12:45:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Sabías que el ojo es un órgano muy sensible?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo tiene más de 2 millones de partes móviles, lo que le permite ajustarse a distintas condiciones de luz y distancia.</description>
+  <pubDate>Mon, 25 Mar 2025 12:50:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>El ojo humano y la luz ultravioleta</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo humano es sensible a la luz ultravioleta, lo que puede causar daño en la retina si no se protege adecuadamente.</description>
+  <pubDate>Mon, 25 Mar 2025 12:55:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>La córnea y su función</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>La córnea es la capa externa y transparente del ojo, responsable de enfocar la luz hacia la retina.</description>
+  <pubDate>Mon, 25 Mar 2025 13:00:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>Los ojos y el tamaño</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El tamaño del ojo humano es aproximadamente el de una canica: 2.5 centímetros de diámetro.</description>
+  <pubDate>Mon, 25 Mar 2025 13:05:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Sabías que los ojos se desarrollan en el útero?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Los ojos comienzan a desarrollarse en el embrión desde las primeras semanas de gestación, aunque no podemos ver hasta varios meses después del nacimiento.</description>
+  <pubDate>Mon, 25 Mar 2025 13:10:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>Los ojos y la información visual</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Los ojos transmiten alrededor del 80% de la información que procesamos en el día a día.</description>
+  <pubDate>Mon, 25 Mar 2025 13:15:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Sabías que el ojo tiene su propio sistema de protección?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo tiene varias capas de protección, como las lágrimas, el parpadeo, y las pestañas para evitar la entrada de cuerpos extraños.</description>
+  <pubDate>Mon, 25 Mar 2025 13:20:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>El ojo humano y la luz visible</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo humano puede percibir sólo una pequeña fracción de todo el espectro electromagnético: la luz visible.</description>
+  <pubDate>Mon, 25 Mar 2025 13:25:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>Los ojos y el envejecimiento</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Con el paso de los años, la vista tiende a deteriorarse, debido principalmente a la pérdida de elasticidad del cristalino.</description>
+  <pubDate>Mon, 25 Mar 2025 13:30:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Sabías que el ojo tiene un campo visual limitado?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo humano tiene un campo visual de aproximadamente 180 grados, lo que significa que no podemos ver todo lo que hay a nuestro alrededor sin mover la cabeza.</description>
+  <pubDate>Mon, 25 Mar 2025 13:35:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>El ojo y la visión periférica</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>La visión periférica permite percibir lo que está fuera del foco de atención, ayudando en la percepción del entorno.</description>
+  <pubDate>Mon, 25 Mar 2025 13:40:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>Los ojos y las lágrimas</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Las lágrimas no solo sirven para lubricar los ojos, sino que también tienen propiedades antibacterianas que protegen el ojo.</description>
+  <pubDate>Mon, 25 Mar 2025 13:45:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>La cirugía refractiva</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>La cirugía refractiva, como el LASIK, corrige problemas de visión como la miopía, hipermetropía y astigmatismo, usando láser para modificar la forma de la córnea.</description>
+  <pubDate>Mon, 25 Mar 2025 13:50:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>¿Sabías que los ojos pueden detectar luz ultravioleta?</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo humano puede detectar luz ultravioleta, pero no la percibe de manera consciente. Sin embargo, la exposición excesiva puede ser perjudicial.</description>
+  <pubDate>Mon, 25 Mar 2025 13:55:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>La retina y su función</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>La retina convierte la luz en señales eléctricas que el cerebro interpreta como imágenes.</description>
+  <pubDate>Mon, 25 Mar 2025 14:00:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>El ojo y su capacidad de enfoque</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>El ojo tiene una increíble capacidad para enfocar objetos cercanos y lejanos rápidamente, gracias a la elasticidad del cristalino.</description>
+  <pubDate>Mon, 25 Mar 2025 14:05:00 GMT</pubDate>
+</item>
+
+<item>
+  <title>El ojo y los reflejos</title>
+  <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
+  <description>Cuando algo se acerca rápidamente a nuestros ojos, nuestro reflejo natural es cerrar los párpados para protegerlos.</description>
+  <pubDate>Mon, 25 Mar 2025 14:10:00 GMT</pubDate>
+</item>
+
         
     </channel>
 </rss>
