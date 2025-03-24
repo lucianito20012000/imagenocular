@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2113.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</p>
+<p class="p1">&lt;rss version="2.0"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;channel&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;title&gt;Sabías qué - Oftalmología&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;link&gt;https://tusitio.com/rss&lt;/link&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;description&gt;Datos curiosos sobre oftalmología&lt;/description&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Los ojos y el arcoíris&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que el ojo humano puede distinguir hasta 10 millones de colores diferentes. ¡Pero seguimos confundiendo el azul marino con el negro!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Parpadeo exprés&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que los ojos parpadean aproximadamente 15-20 veces por minuto, lo que ayuda a mantenerlos hidratados. ¡Es como un mini descanso para la vista!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;La córnea independiente&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que la córnea es el único tejido del cuerpo humano que no tiene vasos sanguíneos. Se nutre completamente del oxígeno del aire. ¡Ecológica y autosuficiente!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Supervisión extrema&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que el ojo humano es capaz de ver la luz de una vela a más de 30 km de distancia en condiciones óptimas. ¡Ojos de águila activados!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Fotoreceptores en acción&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que cada ojo tiene aproximadamente 120 millones de bastones y 6 millones de conos para detectar la luz y el color. ¡Un ejército microscópico trabajando para ti!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Pestañeo romántico&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que la pupila se dilata hasta un 45% cuando miramos a alguien que nos atrae. ¡El amor se nota en la mirada!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Llanto tardío&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que los bebés no producen lágrimas visibles hasta alrededor de las 6 semanas de edad. ¡Lloran en seco!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Ojos de diferentes colores&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que algunas personas tienen un ojo de cada color debido a una condición llamada heterocromía. ¡Una mirada única e hipnotizante!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Pupilas de miedo&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que las pupilas se dilatan cuando estamos en peligro o asustados. ¡Como si quisieran ver mejor la amenaza!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;item&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;title&gt;Ojos en la espalda... casi&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;description&gt;Sabías que nuestros ojos pueden percibir movimiento mejor en la periferia de nuestra visión. ¡Por eso a veces sentimos que alguien nos está mirando!&lt;/description&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/item&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;!-- Aquí se agregan más datos hasta completar los 50 --&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/channel&gt;</p>
+<p class="p1">&lt;/rss&gt;</p>
+</body>
+</html>
