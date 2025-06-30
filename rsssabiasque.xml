@@ -7,32 +7,74 @@
     <language>es</language>
     <lastBuildDate>Mon, 30 Jun 2025 12:00:00 GMT</lastBuildDate>
 
-    <item>
-      <title>El ojo humano puede distinguir hasta 10 millones de colores.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Esta capacidad permite percibir una gran variedad de tonalidades, aunque no todos los humanos tienen la misma sensibilidad.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Color_icon_blue.svg/512px-Color_icon_blue.svg.png" width="300" />
-      ]]></description>
-    </item>
+   <item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/huella-del-iris</guid>
+  <title>¿Sabías que tu iris es más único que tu huella digital?</title>
+  <pubDate>Mon, 30 Jun 2025 10:00:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/huella-del-iris</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>El patrón del iris es único incluso entre gemelos idénticos</dcterms:alternative>
+  <description>El patrón del iris es único incluso entre gemelos idénticos</description>
+  <category>Curiosidades visuales</category>
+  <category>Iris</category>
+  <category>Identidad</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_Ultrastructure.jpg" type="image/jpeg" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Imagen de iris humano</media:title>
+    <media:description>Detalle microscópico de la estructura del iris humano.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>El iris, esa parte circular y pigmentada del ojo que regula la cantidad de luz que entra a través de la pupila, tiene un patrón tan complejo y único que supera en precisión a las huellas dactilares. Por eso, hoy se usa en sistemas de reconocimiento biométrico en aeropuertos y centros de seguridad.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_Ultrastructure.jpg" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/huella-del-iris" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>¿Sabías que tus ojos tienen una huella única?</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        El iris de cada persona es único, incluso entre gemelos idénticos. Es más seguro que una huella dactilar.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_Ultrastructure.jpg/640px-Iris_Ultrastructure.jpg" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/lentes-oscuros</guid>
+  <title>¿Lentes oscuros sin filtro UV? Cuidado...</title>
+  <pubDate>Mon, 30 Jun 2025 10:05:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/lentes-oscuros</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>Usar lentes sin filtro UV puede ser más dañino que no usar nada</dcterms:alternative>
+  <description>Usar lentes sin filtro UV puede ser más dañino que no usar nada</description>
+  <category>Protección visual</category>
+  <category>Rayos UV</category>
+  <category>Lentes solares</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/8/88/Sunglasses_icon.svg" type="image/png" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Lentes de sol</media:title>
+    <media:description>Icono que representa lentes de sol, asociados a la protección ocular.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>Los lentes de sol sin protección UV pueden ser más peligrosos que no usar lentes en absoluto. Al oscurecer la visión, tu pupila se dilata y permite que entren más rayos ultravioletas dañinos, lo que puede afectar tu retina y cristalino.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Sunglasses_icon.svg" width="200"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/lentes-oscuros" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>El parpadeo limpia y lubrica tus ojos.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Parpadear distribuye lágrimas sobre la superficie ocular y protege contra cuerpos extraños.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eye_icon.svg/512px-Eye_icon.svg.png" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/diabetes-ojo</guid>
+  <title>La diabetes puede dañar tus ojos... sin que lo notes</title>
+  <pubDate>Mon, 30 Jun 2025 10:10:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/diabetes-ojo</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>La retinopatía diabética puede avanzar sin síntomas</dcterms:alternative>
+  <description>La retinopatía diabética puede avanzar sin síntomas</description>
+  <category>Retina</category>
+  <category>Diabetes</category>
+  <category>Prevención</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Diabetic_retinopathy.jpg" type="image/jpeg" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Retinopatía diabética</media:title>
+    <media:description>Imagen de fondo de ojo que muestra los efectos de la diabetes en la retina.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>La retinopatía diabética es una de las principales causas de ceguera en el mundo. Y lo más alarmante: puede desarrollarse sin ningún síntoma visible hasta que el daño es severo. Por eso, es vital que las personas con diabetes se realicen revisiones oftalmológicas periódicas, incluso si ven bien.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Diabetic_retinopathy.jpg" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/diabetes-ojo" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
     <item>
       <title>La luz azul afecta el sueño y tus ojos.</title>
