@@ -77,67 +77,164 @@
 </item>
 
     <item>
-      <title>La luz azul afecta el sueño y tus ojos.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Las pantallas emiten luz azul que puede alterar tu ciclo circadiano y causar fatiga visual.<br>
-        <img src="https://www.visionworks.com/Themes/Custom/visionworks/images/blue-light-hero.jpg" width="300"/>
-      ]]></description>
-    </item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/macula</guid>
+  <title>La mácula: tu punto de visión más preciso</title>
+  <pubDate>Mon, 30 Jun 2025 10:15:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/macula</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>La mácula es responsable de la visión central y de detalle</dcterms:alternative>
+  <description>La mácula es responsable de la visión central y de detalle</description>
+  <category>Retina</category>
+  <category>Mácula</category>
+  <category>Visión central</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Macula.jpg" type="image/jpeg" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Mácula ocular</media:title>
+    <media:description>Representación de la mácula en el centro de la retina.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>La mácula es una diminuta región en el centro de la retina encargada de proporcionar visión detallada y central. Es fundamental para leer, conducir, reconocer rostros y ver colores con precisión.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Macula.jpg" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/macula" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>La mácula es clave para la visión fina.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Esta pequeña zona de la retina nos permite leer, reconocer caras y ver detalles.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Macula.jpg/640px-Macula.jpg" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/catarata-nocturna</guid>
+  <title>¿Ves mal de noche? Podrían ser cataratas</title>
+  <pubDate>Mon, 30 Jun 2025 10:20:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/catarata-nocturna</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>La dificultad para conducir de noche puede indicar cataratas</dcterms:alternative>
+  <description>La dificultad para conducir de noche puede indicar cataratas</description>
+  <category>Cataratas</category>
+  <category>Cirugía</category>
+  <category>Visión nocturna</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cataract_in_the_human_eye.png" type="image/png" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Ojo con catarata</media:title>
+    <media:description>Imagen ilustrativa de un ojo con opacidad en el cristalino (catarata).</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>Uno de los primeros síntomas de cataratas es la dificultad para ver claramente de noche, especialmente al manejar. Las luces pueden parecer deslumbrantes o tener halos, lo que puede aumentar el riesgo de accidentes.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cataract_in_the_human_eye.png" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/catarata-nocturna" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>La diabetes puede afectar la vista sin dolor.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        La retinopatía diabética puede avanzar sin síntomas hasta fases severas. Revisión periódica es esencial.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Diabetic_retinopathy.jpg/640px-Diabetic_retinopathy.jpg" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/fondo-de-ojo-hipertension</guid>
+  <title>¿Hipertensión? El ojo también lo dice</title>
+  <pubDate>Mon, 30 Jun 2025 10:25:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/fondo-de-ojo-hipertension</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>El fondo de ojo puede mostrar signos de presión alta</dcterms:alternative>
+  <description>El fondo de ojo puede mostrar signos de presión alta</description>
+  <category>Hipertensión</category>
+  <category>Diagnóstico</category>
+  <category>Fondo de ojo</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Fundus_photograph_of_normal_right_eye.jpg" type="image/jpeg" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Fotografía de fondo de ojo</media:title>
+    <media:description>Imagen clínica del fondo de ojo mostrando vasos sanguíneos normales.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>Durante una revisión oftalmológica, es posible detectar signos de hipertensión observando los vasos sanguíneos del fondo del ojo. Alteraciones como estrechamiento arteriolar o hemorragias pueden ser señales tempranas de presión alta.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Fundus_photograph_of_normal_right_eye.jpg" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/fondo-de-ojo-hipertension" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>Ver borroso al atardecer puede ser signo de catarata.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Si notas dificultad para manejar de noche o sensibilidad a la luz, podrías tener una catarata en desarrollo.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cataract_in_the_human_eye.png/640px-Cataract_in_the_human_eye.png" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/parpadeo</guid>
+  <title>Parpadear hidrata y limpia tus ojos</title>
+  <pubDate>Mon, 30 Jun 2025 10:30:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/parpadeo</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>El parpadeo regula la humedad ocular y protege contra irritantes</dcterms:alternative>
+  <description>El parpadeo regula la humedad ocular y protege contra irritantes</description>
+  <category>Lágrima</category>
+  <category>Parpadeo</category>
+  <category>Lubricación ocular</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/2/27/Eye_icon.svg" type="image/svg+xml" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Ícono de ojo</media:title>
+    <media:description>Representación esquemática del ojo humano.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>Parpadear no es solo un reflejo: cada parpadeo distribuye la película lagrimal sobre la superficie ocular, eliminando polvo y manteniendo la hidratación. Frente a pantallas, parpadeamos menos, lo que puede causar ojo seco.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Eye_icon.svg" width="200"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/parpadeo" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>Una revisión ocular puede detectar hipertensión.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        El fondo de ojo permite observar vasos sanguíneos que pueden revelar hipertensión o enfermedades sistémicas.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fundus_photograph_of_normal_right_eye.jpg/640px-Fundus_photograph_of_normal_right_eye.jpg" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/ninos-oftalmo</guid>
+  <title>Los niños también necesitan exámenes visuales</title>
+  <pubDate>Mon, 30 Jun 2025 10:35:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/ninos-oftalmo</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>Los problemas visuales en la infancia pueden corregirse si se detectan a tiempo</dcterms:alternative>
+  <description>Los problemas visuales en la infancia pueden corregirse si se detectan a tiempo</description>
+  <category>Niños</category>
+  <category>Salud visual infantil</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/f/fc/Child_eye_exam.jpg" type="image/jpeg" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Niña en examen visual</media:title>
+    <media:description>Una niña realiza una revisión ocular con optometrista.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>Alteraciones visuales como miopía, hipermetropía, astigmatismo o estrabismo pueden aparecer en la infancia. Detectarlas a tiempo evita problemas escolares y mejora el desarrollo visual y cognitivo.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Child_eye_exam.jpg" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/ninos-oftalmo" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>Los niños también deben revisar su vista.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Detectar problemas visuales antes de los 6 años puede evitar estrabismo y ambliopía (ojo flojo).<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Child_eye_exam.jpg/640px-Child_eye_exam.jpg" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/color</guid>
+  <title>¿Cuántos colores puede ver el ojo humano?</title>
+  <pubDate>Mon, 30 Jun 2025 10:40:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/color</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>Hasta 10 millones de colores, gracias a los conos de la retina</dcterms:alternative>
+  <description>Hasta 10 millones de colores, gracias a los conos de la retina</description>
+  <category>Percepción del color</category>
+  <category>Retina</category>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/05/Color_icon_blue.svg" type="image/svg+xml" medium="image">
+    <media:credit>Wikimedia Commons</media:credit>
+    <media:title>Espectro de color</media:title>
+    <media:description>Representación esquemática de un matiz azul, parte del espectro visible.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>El ojo humano tiene células fotorreceptoras llamadas conos, especializadas en captar colores. En promedio, una persona puede diferenciar entre 1 y 10 millones de tonalidades distintas.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Color_icon_blue.svg" width="200"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/color" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
 
-    <item>
-      <title>Los lentes oscuros sin filtro UV pueden dañar tus ojos.</title>
-      <link>https://imagenocular.mx</link>
-      <description><![CDATA[
-        Un lente oscuro sin protección UV engaña a la pupila, permitiendo el paso de más rayos nocivos.<br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sunglasses_icon.svg/512px-Sunglasses_icon.svg.png" width="300"/>
-      ]]></description>
-    </item>
+<item>
+  <guid isPermaLink="true">https://imagenocular.mx/sabiasque/luz-azul</guid>
+  <title>La luz azul altera el sueño y daña tus ojos</title>
+  <pubDate>Mon, 30 Jun 2025 10:45:00 GMT</pubDate>
+  <link>https://imagenocular.mx/sabiasque/luz-azul</link>
+  <dc:creator>Equipo Imagen Ocular</dc:creator>
+  <dcterms:alternative>La luz azul de pantallas afecta el descanso y causa fatiga ocular</dcterms:alternative>
+  <description>La luz azul de pantallas afecta el descanso y causa fatiga ocular</description>
+  <category>Luz azul</category>
+  <category>Ojo seco</category>
+  <category>Tecnología y visión</category>
+  <media:content url="https://www.visionworks.com/Themes/Custom/visionworks/images/blue-light-hero.jpg" type="image/jpeg" medium="image">
+    <media:credit>VisionWorks</media:credit>
+    <media:title>Luz azul y pantallas</media:title>
+    <media:description>Ilustración de una mujer expuesta a la luz azul de dispositivos electrónicos.</media:description>
+  </media:content>
+  <content:encoded><![CDATA[
+    <p>La exposición prolongada a la luz azul emitida por celulares, computadoras y tabletas altera la producción de melatonina, la hormona del sueño. También puede provocar fatiga visual, visión borrosa y dolor ocular.</p>
+    <p><img src="https://www.visionworks.com/Themes/Custom/visionworks/images/blue-light-hero.jpg" width="300"/></p>
+    <p><a href="https://imagenocular.mx/sabiasque/luz-azul" target="_blank">Seguir leyendo</a></p>
+  ]]></content:encoded>
+</item>
+
 
   </channel>
 </rss>
