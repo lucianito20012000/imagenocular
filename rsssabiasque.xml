@@ -1,172 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-    <channel>
-        <title>Sabías qué - Oftalmología</title>
-        <link>https://raw.githubusercontent.com/lucianito20012000/imagenocular/refs/heads/main/rsssabiasque.xml</link>
-        <description>Datos curiosos sobre oftalmología</description>
-        <language>es</language>
-        <lastBuildDate>Mon, 25 Mar 2025 12:00:00 GMT</lastBuildDate>
-        
-      
-   <item>
-  <title>¿Sabías que ver pantallas por más de 2 horas seguidas puede causar fatiga visual digital?</title>
-  <link>https://imagenocular.mx</link>
-  <description>El uso prolongado de computadoras y celulares reduce el parpadeo natural, provocando resequedad, cansancio ocular y visión borrosa. ¡Haz pausas cada 20 minutos!</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/6/6e/Computer_eye_strain.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:00:00 GMT</pubDate>
-</item>
+  <channel>
+    <title>Sabías qué - Oftalmología</title>
+    <link>https://imagenocular.mx</link>
+    <description>Datos curiosos sobre oftalmología</description>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Jun 2025 12:00:00 GMT</lastBuildDate>
 
-<item>
-  <title>El desprendimiento de retina puede comenzar con luces o destellos repentinos.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Si ves destellos de luz, sombras o una "cortina" negra repentina en tu visión, acude inmediatamente con un oftalmólogo. ¡Puede ser una urgencia!</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/b/bd/Retinal_detachment_visual_simulation.png</image>
-  <pubDate>Wed, 12 Jun 2025 12:05:00 GMT</pubDate>
-</item>
+    <item>
+      <title>El ojo humano puede distinguir hasta 10 millones de colores.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Esta capacidad permite percibir una gran variedad de tonalidades, aunque no todos los humanos tienen la misma sensibilidad.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Color_icon_blue.svg/512px-Color_icon_blue.svg.png" width="300" />
+      ]]></description>
+    </item>
 
-<item>
-  <title>El ojo tiene su propio sistema inmune llamado barrera hematoencefálica ocular.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Este sistema protege los ojos de infecciones y sustancias tóxicas, aislándolos del resto del cuerpo para mantener la visión estable.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/1/1b/Blood-retinal_barrier.png</image>
-  <pubDate>Wed, 12 Jun 2025 12:10:00 GMT</pubDate>
-</item>
+    <item>
+      <title>¿Sabías que tus ojos tienen una huella única?</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        El iris de cada persona es único, incluso entre gemelos idénticos. Es más seguro que una huella dactilar.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_Ultrastructure.jpg/640px-Iris_Ultrastructure.jpg" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>El color de los ojos puede cambiar con la edad o ciertas enfermedades.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Algunas personas experimentan cambios leves en el color del iris debido a factores hormonales, medicamentos o condiciones como el glaucoma pigmentario.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/4/4f/Heterochromia_iridis.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:15:00 GMT</pubDate>
-</item>
+    <item>
+      <title>El parpadeo limpia y lubrica tus ojos.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Parpadear distribuye lágrimas sobre la superficie ocular y protege contra cuerpos extraños.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eye_icon.svg/512px-Eye_icon.svg.png" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>Una revisión anual puede detectar enfermedades silenciosas como la retinopatía diabética.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Enfermedades como la diabetes pueden dañar la retina sin causar síntomas. Una revisión a tiempo puede prevenir la ceguera.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/6/60/Diabetic_retinopathy_fundus.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:20:00 GMT</pubDate>
-</item>
+    <item>
+      <title>La luz azul afecta el sueño y tus ojos.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Las pantallas emiten luz azul que puede alterar tu ciclo circadiano y causar fatiga visual.<br>
+        <img src="https://www.visionworks.com/Themes/Custom/visionworks/images/blue-light-hero.jpg" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>El color rojo en las fotos puede revelar un problema ocular en niños.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Si un ojo aparece blanco en vez de rojo en las fotos con flash, puede indicar un retinoblastoma u otra condición. Consulta a un especialista.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/4/49/Leukocoria.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:25:00 GMT</pubDate>
-</item>
+    <item>
+      <title>La mácula es clave para la visión fina.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Esta pequeña zona de la retina nos permite leer, reconocer caras y ver detalles.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Macula.jpg/640px-Macula.jpg" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>El ojo puede reflejar enfermedades sistémicas como la hipertensión y el lupus.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Un fondo de ojo permite ver directamente vasos sanguíneos, por lo que muchas enfermedades del cuerpo dejan señales visibles en la retina.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/b/b4/Hypertensive_retinopathy.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:30:00 GMT</pubDate>
-</item>
+    <item>
+      <title>La diabetes puede afectar la vista sin dolor.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        La retinopatía diabética puede avanzar sin síntomas hasta fases severas. Revisión periódica es esencial.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Diabetic_retinopathy.jpg/640px-Diabetic_retinopathy.jpg" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>Las lágrimas emocionales contienen más hormonas que las lágrimas basales.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Además de lubricar el ojo, llorar por emociones fuertes ayuda a liberar toxinas y reducir el estrés. ¡Llorar también es salud!</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/9/9c/Tearful_eye.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:35:00 GMT</pubDate>
-</item>
+    <item>
+      <title>Ver borroso al atardecer puede ser signo de catarata.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Si notas dificultad para manejar de noche o sensibilidad a la luz, podrías tener una catarata en desarrollo.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cataract_in_the_human_eye.png/640px-Cataract_in_the_human_eye.png" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>El pterigión es una lesión en la conjuntiva común en personas que se exponen al sol sin protección.</title>
-  <link>https://imagenocular.mx</link>
-  <description>También conocido como “carnosidad”, el pterigión puede crecer hacia la córnea y afectar la visión si no se trata a tiempo.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/e/ea/Pterygium.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:40:00 GMT</pubDate>
-</item>
+    <item>
+      <title>Una revisión ocular puede detectar hipertensión.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        El fondo de ojo permite observar vasos sanguíneos que pueden revelar hipertensión o enfermedades sistémicas.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fundus_photograph_of_normal_right_eye.jpg/640px-Fundus_photograph_of_normal_right_eye.jpg" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>¿Sabías que existe una lente intraocular que corrige presbicia y astigmatismo al mismo tiempo?</title>
-  <link>https://imagenocular.mx</link>
-  <description>La tecnología Premium en cirugía de catarata permite implantar lentes multifocales o tóricas que restauran la visión a múltiples distancias.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/f/f4/IOL_implant.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:45:00 GMT</pubDate>
-</item>
-<item>
-  <title>El ojo puede detectar una vela encendida a más de 1.5 kilómetros de distancia en la oscuridad total.</title>
-  <link>https://imagenocular.mx</link>
-  <description>La sensibilidad del ojo humano en condiciones de oscuridad es tan alta que puede captar una fuente de luz extremadamente tenue a larga distancia.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/8/8f/Candle_light.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:50:00 GMT</pubDate>
-</item>
+    <item>
+      <title>Los niños también deben revisar su vista.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Detectar problemas visuales antes de los 6 años puede evitar estrabismo y ambliopía (ojo flojo).<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Child_eye_exam.jpg/640px-Child_eye_exam.jpg" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>El astigmatismo no solo causa visión borrosa, también puede provocar dolor de cabeza y fatiga ocular.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Una curvatura irregular de la córnea o el cristalino puede alterar la forma en que la luz entra al ojo, forzando la vista constantemente.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/5/57/Astigmatism_diagram.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 12:55:00 GMT</pubDate>
-</item>
+    <item>
+      <title>Los lentes oscuros sin filtro UV pueden dañar tus ojos.</title>
+      <link>https://imagenocular.mx</link>
+      <description><![CDATA[
+        Un lente oscuro sin protección UV engaña a la pupila, permitiendo el paso de más rayos nocivos.<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sunglasses_icon.svg/512px-Sunglasses_icon.svg.png" width="300"/>
+      ]]></description>
+    </item>
 
-<item>
-  <title>La degeneración macular es la causa principal de pérdida de visión central en mayores de 60 años.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Esta enfermedad afecta la mácula, el área central de la retina, dificultando la lectura, el reconocimiento de rostros y otras tareas finas.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/3/39/Macular_degeneration_simulation.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:00:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>El uso excesivo de gotas vasoconstrictoras puede empeorar el enrojecimiento ocular.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Estas gotas “blanqueadoras” pueden causar efecto rebote si se usan sin control médico, generando dependencia y mayor irritación ocular.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/5/58/Eye_drops.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:05:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>Las células de la retina son tan sensibles que pueden detectar un solo fotón de luz.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Los bastones, responsables de la visión en baja luz, pueden activarse con una cantidad mínima de luz, mostrando la increíble sensibilidad ocular.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/e/e0/Photoreceptor_cells.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:10:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>Los niños deben revisarse la vista antes de ingresar a la primaria.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Problemas visuales no detectados pueden afectar el aprendizaje, la concentración y el desarrollo motor. La revisión temprana es clave.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/2/27/Children_eye_exam.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:15:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>El ojo seco puede empeorar con el uso prolongado de aire acondicionado o calefacción.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Estos ambientes reducen la humedad del aire, favoreciendo la evaporación de la película lagrimal. ¡Usa lágrimas artificiales y descansa la vista!</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/3/3a/Artificial_tears.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:20:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>Leer con poca luz no daña permanentemente los ojos, pero puede causar fatiga visual.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Es un mito que leer en penumbra cause daño estructural. Sin embargo, puede producir incomodidad, ardor y visión borrosa temporal.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/2/24/Reading_low_light.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:25:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>El queratocono es una enfermedad progresiva que adelgaza y deforma la córnea.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Genera visión distorsionada y puede requerir desde lentes especiales hasta trasplante corneal en casos avanzados.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/d/d8/Keratoconus_diagram.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:30:00 GMT</pubDate>
-</item>
-
-<item>
-  <title>La exposición crónica al sol sin protección puede causar lesiones en la retina.</title>
-  <link>https://imagenocular.mx</link>
-  <description>Los rayos UV pueden provocar fototoxicidad, envejecimiento del cristalino y aumentar el riesgo de cataratas y degeneración macular.</description>
-  <image>https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_protection_eyes.jpg</image>
-  <pubDate>Wed, 12 Jun 2025 13:35:00 GMT</pubDate>
-</item>
-
-        
-    </channel>
+  </channel>
 </rss>
